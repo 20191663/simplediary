@@ -1,3 +1,6 @@
+# Notion site에서 공부하기
+[simplediary Project](https://quark-fireplace-c3a.notion.site/1-d6e1911040fe4e27a7e2cdb158f2f88e)를 클릭하여 이동
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
